@@ -1,0 +1,9 @@
+/*Metodos toUpperCase y toLowerCase*/
+const curso="JavaScript";
+console.log(curso.toUpperCase());
+console.log(curso.toLowerCase());
+
+/*Convertir num a cadenas de texto*/
+const numero=200;
+console.log(numero);
+console.log(numero.toString());
